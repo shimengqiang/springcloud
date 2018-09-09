@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="first-cloud-invoker" />
+        <module name="first-cloud-provider" />
+        <module name="first-cloud-rest-client" />
+        <module name="first-cloud-server" />
+        <module name="first-ek-server" />
+        <module name="first-ek-service-provider" />
+        <module name="fist-ek-service-invoker" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="first-cloud-invoker" target="1.8" />
+      <module name="first-cloud-provider" target="1.8" />
+      <module name="first-cloud-rest-client" target="1.5" />
+      <module name="first-cloud-server" target="1.8" />
+      <module name="first-ek-server" target="1.8" />
+      <module name="first-ek-service-provider" target="1.8" />
+      <module name="fist-ek-service-invoker" target="1.8" />
+      <module name="microservice" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

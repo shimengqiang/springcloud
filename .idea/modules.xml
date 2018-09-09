@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/first-cloud-invoker/first-cloud-invoker.iml" filepath="$PROJECT_DIR$/first-cloud-invoker/first-cloud-invoker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-cloud-provider/first-cloud-provider.iml" filepath="$PROJECT_DIR$/first-cloud-provider/first-cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-cloud-rest-client/first-cloud-rest-client.iml" filepath="$PROJECT_DIR$/first-cloud-rest-client/first-cloud-rest-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-cloud-server/first-cloud-server.iml" filepath="$PROJECT_DIR$/first-cloud-server/first-cloud-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-ek-server/first-ek-server.iml" filepath="$PROJECT_DIR$/first-ek-server/first-ek-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-ek-service-provider/first-ek-service-provider.iml" filepath="$PROJECT_DIR$/first-ek-service-provider/first-ek-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fist-ek-service-invoker/fist-ek-service-invoker.iml" filepath="$PROJECT_DIR$/fist-ek-service-invoker/fist-ek-service-invoker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice.iml" filepath="$PROJECT_DIR$/microservice.iml" />
+    </modules>
+  </component>
+</project>
